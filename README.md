@@ -25,9 +25,7 @@ Design an interactive dashboard that would allow managers to filter sales data b
 
 ---
 
-## 📊 Dashboard Preview
 
-![Car Sales Dashboard](https://github.com/omkar-247/PowerBI-Projects/blob/main/car%20sales%20analysis.pdf)
 
 ```markdown
 
